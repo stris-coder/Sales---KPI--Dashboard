@@ -11,7 +11,7 @@ Interactive Power BI dashboard for analyzing sales performance.
 - Total Sales
 - Total Profit
 - Number of Customers
-- Monthly Sales Trend
+-  Sales Trend according to days
 
 ## Project Type
 Guided learning project completed through a Udemy course.
